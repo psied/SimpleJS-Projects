@@ -7,7 +7,7 @@ Udemy Course Link: https://www.udemy.com/course/the-complete-javascript-course/
 
 Happy Coding!
 
-Project List based on Complexity:
+Project List (These are organised based on the level of complexity)
 
 Project 1 : Number Guessing Game
 
