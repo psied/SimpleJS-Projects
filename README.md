@@ -10,3 +10,5 @@ Happy Coding!
 Project List based on Complexity:
 
 Project 1 : Number Guessing Game
+Project 2 : Modal Window
+Project 3 : Dice Roll Game
