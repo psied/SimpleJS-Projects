@@ -9,4 +9,4 @@ Happy Coding!
 
 Project List based on Complexity:
 
-Project 1 : Number Guessing Game
+Number Guessing Game
