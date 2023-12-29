@@ -25,3 +25,5 @@ Project 5 : Shopping List
 Project 6 : Dev Jokes Generator
 
 Project 7 : GitHub Repos Lister
+
+Project 8 : Random User Generator
